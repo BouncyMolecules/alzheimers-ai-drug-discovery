@@ -1,0 +1,16 @@
+smiles,name,mechanism,target
+CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Memantine,NMDA receptor antagonist,NMDA receptor
+COC1=CC2=C(C=C1)C=CN2CCOC3=CC=CC=C3,Donepezil,Acetylcholinesterase inhibitor,Acetylcholinesterase
+CN1CCC2=CC=CC=C2C1CC(=O)OC(C)C,Rivastigmine,Acetylcholinesterase inhibitor,Acetylcholinesterase
+CC1=CC(=CC=C1O)CC(C)(C)NCCO,Galantamine,Acetylcholinesterase inhibitor,Acetylcholinesterase
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Flurbiprofen,Anti-inflammatory,COX enzyme
+C1=CC=C(C=C1)CC(C(=O)O)N,Phenylalanine,Neurotransmitter precursor,Dopamine pathway
+C1=CC(=CC=C1CCN)O,Dopamine,Neurotransmitter,Dopamine receptor
+C1=CC(=C(C=C1O)O)O,Catechol,Antioxidant,Oxidative stress
+COC1=CC(=CC(=C1OC)OC)C=CC(=O)O,Ferulic acid,Antioxidant,Oxidative stress
+C1=CC(=CC=C1C=CC(=O)O)O,Cinnamic acid,Anti-inflammatory,Inflammation
+C1CCNCC1,Piperidine,Common CNS scaffold,Multiple
+C1CNCCN1,Piperazine,Common CNS scaffold,Multiple
+C1CCOC1,Tetrahydrofuran,Common CNS scaffold,Multiple
+C1=CC=CC=C1OC,Cresol,Antioxidant,Oxidative stress
+CC(=O)NC1=CC=CC=C1,Acetanilide,Analgesic,COX enzyme
